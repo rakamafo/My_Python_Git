@@ -1,0 +1,3 @@
+rotate about x(deg):15.0
+rotate about y(deg):15.0
+rotate about z(deg):0.0
