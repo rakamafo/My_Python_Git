@@ -1,8 +1,6 @@
 
-import numpy as np
+a = 100
+b = 200
 
-
-a = np.array
-
-
+print(a + b)
 
